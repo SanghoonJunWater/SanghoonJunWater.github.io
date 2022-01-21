@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sanghoon Jun"
-description              : &description "He/Him/His"
+description              : &description "PhD Candidate in The University of Arizona"
 url                      : https://sanghoonjunwater.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SanghoonJunWater/SanghoonJunWater.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sanghoon Jun"
   avatar           : "sanghoonjun.jpg"
-  bio              : "PhD Candidate in The University of Arizona"
+  bio              : "He/Him/His"
   location         : "Tucson, Arizona"
   employer         :
   pubmed           : 
