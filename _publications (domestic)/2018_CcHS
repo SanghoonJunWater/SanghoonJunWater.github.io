@@ -1,0 +1,14 @@
+---
+title: "Development of Copycat Harmony Search : Adapting Copycat Scheme for the Improvement of Optimization Performance"
+collection: publications (domestic)
+permalink: /publication (domestic)/2018_CcHS
+excerpt: A New Meta-heuristic optimization algortihm - improved HS.
+date: 2018-09-01
+venue: 'Journal of the Korean Academia-Industrial cooperation Society'
+paperurl: https://www.koreascience.or.kr/article/JAKO201831854886711.page
+citation: 'Jun, S. H., Choi, Y. H., Jung, D., & Kim, J. H. (2018). Development of Copycat Harmony Search: Adapting Copycat Scheme for the Improvement of Optimization Performance. <i>Journal of the Korea Academia-Industrial cooperation Society</i>, 19(9), 304-315.'
+---
+## Abstract
+Harmony Search (HS) is a recently developed metaheuristic algorithm that is widely known to many researchers. However, due to the increasing complexity of optimization problems, the optimal solution cannot be efficiently found by HS. To overcome this problem, there have been many studies that have improved the performance of HS by modifying the parameter settings and incorporating other metaheuristic algorithms. In this study, Copycat HS (CcHS) is suggested, which improves the parameter setting method and the performance of searching for the optimal solution. To verify the performance of CcHS, the results were compared to those of HS variants with a set of well-known mathematical benchmark problems. The effectiveness of CcHS was proven by finding final solutions that are closer to the global optimum than other algorithms in all problems. To analyze the applicability of CcHS to engineering optimization problems, it was applied to a design problem for Water Distribution Systems (WDS), which is widely applied in previous research. As a result, CcHS proposed the minimum design cost, which was 21.91% cheaper than the cost suggested by simple HS.
+## Keywords
+Copycat Harmony Search; Harmony Search; Metaheuristic; Optimization; Water Distribution Systems
