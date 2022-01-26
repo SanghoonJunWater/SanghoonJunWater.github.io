@@ -22,8 +22,8 @@ I am currently working as a research assistant in the <a href="https://caem.engi
 * Uncertainty Analysis and Calibration of WDS Hydraulic Model 
 
 <b>EDUCATION:</b>
-* Ph.D. Candidate in Civil and Architectural Engineering and Mechanics (Advisor: <a href="https://caem.engineering.arizona.edu/faculty-staff/faculty/kevin-e-lansey" target="_blank" rel="noopener noreferrer">Kevin E. Lansey</a>, The University of Arizona, Tucson, AZ, 2019.01-present
-* M.E. in Civil, Environmental, and Architectural Engineering (Advisor: <a href="http://opti.korea.ac.kr/" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2017.03-2019.02
+* Ph.D. Candidate in Civil and Architectural Engineering and Mechanics (Advisor: <a href="https://caem.engineering.arizona.edu/faculty-staff/faculty/kevin-e-lansey" target="_blank" rel="noopener noreferrer">Kevin E. Lansey</a>), The University of Arizona, Tucson, AZ, 2019.01-present
+* M.E. in Civil, Environmental, and Architectural Engineering (Advisor: <a href="http://opti.korea.ac.kr/" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>), Korea University, Seoul, Republic of Korea, 2017.03-2019.02
 * B.S. in Civil and Architectural Engineering, Korea University, Seoul, Republic of Korea, 2011.03-2017.02
 
 
