@@ -1,7 +1,7 @@
 ---
 title: "A Study on the Practical Use of Smart Meter End-User Demand Data"
 collection: publications (domestic)
-permalink: /publication (domestic)/2021_smart_meter
+permalink: /publications (domestic)/2021_smart_meter
 excerpt: WDS AMI end-user demand disaggregation.
 date: 2021-12-01
 venue: 'Journal of Korean Water Resources Association'
